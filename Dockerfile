@@ -114,6 +114,3 @@ FROM bitnami/minio:2022.2.26-debian-10-r4
 
 # Tags: 2022.2.26-debian-10-r3
 FROM bitnami/minio:2022.2.26-debian-10-r3
-
-# Tags: 2022.2.26-debian-10-r2
-FROM bitnami/minio:2022.2.26-debian-10-r2
