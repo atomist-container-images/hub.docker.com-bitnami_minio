@@ -1,12 +1,15 @@
-# Tags: latest, 2022.3.26-debian-10-r4, 2022.3.26, 2022-debian-10, 2022
+# Tags: latest, 2022.3.26-debian-10-r5, 2022.3.26, 2022-debian-10, 2022
 FROM bitnami/minio:latest
-FROM bitnami/minio:2022.3.26-debian-10-r4
+FROM bitnami/minio:2022.3.26-debian-10-r5
 FROM bitnami/minio:2022.3.26
 FROM bitnami/minio:2022-debian-10
 FROM bitnami/minio:2022
 
 # Tags: _
 FROM bitnami/minio:_
+
+# Tags: 2022.3.26-debian-10-r4
+FROM bitnami/minio:2022.3.26-debian-10-r4
 
 # Tags: 2022.3.26-debian-10-r3
 FROM bitnami/minio:2022.3.26-debian-10-r3
